@@ -1,5 +1,4 @@
 import { Editor } from "./components/Editor";
-import { initialContent } from "./shared";
 
 export default function App() {
   return (
